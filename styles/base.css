@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100%;
+}
+
+div.container {
+    width: 900px;
+    margin: 0px auto;
+    height: 500px;
+    position: relative;
+}
+
+header {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header span {
+    font-size: 36px;
+    border: 2px solid white ;
+    border-radius: 6px;
+    padding: 7px;
+}
+
+main img {
+    width: 100%;
+}
+
+footer {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    margin-top: -4px;
+    padding: 5px;
+}
+
+main .welcome {
+    position: absolute;
+    top: 200px;
+    right: 240px;
+    position: absolute;
+}
